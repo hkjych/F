@@ -11743,3 +11743,21 @@ https://raw.githubusercontent.com/Arianlavi/RebeldevConfig/refs/heads/main/Rebel
 
 === 2026-10-10 07:41:45 - 失效订阅 (1 个) ===
 https://liangxin.xyz/api/v1/liangxin?OwO=295e2075390738adaa075a1eac3df0eb	http_403
+
+=== 2026-10-11 07:04:48 - 失效订阅 (16 个) ===
+https://apps.apple.com/us/app/stockduty/id6785269333	request_failed
+https://panel.orangehub.fun:8443/sub/djMsMjM4NjYsMTc5MTIxODg4Ng.YMuFuwJVFujbJWahp4MkzFGUhrbYYUYL4qpT9jsz4vw	http_404
+https://www.spltfm.com/	request_failed
+https://technode.com/2026/10/09/ecosia-switches-from-mistral-to-open-weight-ai-models-including-qwen-glm-and-kimi/	http_429
+https://docs.qoder.com/changelog	http_404
+https://vistart.art/#/register?code=B6zx7dsc	http_403
+https://468135.xueshanlink.com/api/xueshanlink/c209568b07b9d7d0b62de17bbdac85eb	http_403
+https://sus.clodom.link/message/api/sourlist/eb88233ec2a7e2dea01ede776200e88b	http_403
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub9.txt	http_404
+https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/United%20States/config.txt	http_404
+https://raw.githubusercontent.com/mshojaei77/v2rayAuto/refs/heads/main/subs/hysteria	http_404
+https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/refs/heads/master/collected-proxies/xray-json-full/actives_all.json	http_404
+https://raw.githubuser	request_failed
+https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs.txt	http_404
+http://128.199.121.61:9090#%F0%9F%8D%8496@oneclickvpnkeys	http_405
+https://cdn4.telesco.pe/file/d18bdf4f8a.mp4?token=kfTbZyMEbmc0zMo3LowontEzuTcI2rKK-5ehHgs8-uJbyRiAv20vYtfrKmrgjBbHkmIvVmNMBYVJuoraGjSJMzwWMdj6sb1xB0UAz0i6uuVPA8qmzyESEKAPhODJ5gezxiXdIM_0qrh5c1SkNBF4jW9zv0DAECacacPphIezi_uUDvn62oL4LUcr07HuBJoKK0WzWiDN6tfnhF9wfS2ZncoY9wcm7DGPsS32JABV0BdxLe7yHn7za8YnwOaXzf2sffQ6drNoHHVDloyAwR1HSHE3cifjna_yN-1wEho25Svq03mcqhh1Sex4lpk3ihl7EzSxXhekBimsAnc4qKvJhw	http_500
