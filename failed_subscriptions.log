@@ -11794,3 +11794,12 @@ https://github.com/LorenEteval/Furious	request_failed
 === 2026-10-11 07:26:23 - 失效订阅 (2 个) ===
 https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/4.txt	request_failed
 https://github.com/LonUp/NodeList/raw/main/V2RAY/Latest_base64.txt	request_failed
+
+=== 2026-10-12 07:19:23 - 失效订阅 (4 个) ===
+https://sus.clodom.link/message/api/sourlist/860be257a364935675483e9eba8e6524	http_403
+http://1234:1234@18.194.239.151:2080#%F0%9F%AB%A19@oneclickvpnkeys	request_failed
+http://1234:1234@63.176.160.240:2080#%F0%9F%AB%A114@oneclickvpnkeys	http_407
+https://cdn4.telesco.pe/file/fd007ee273.mp4?token=tPWTpCkj_DNYVMoV6Q5Pi1F43f9p5xEOtdtBkfZSrSXtJnNE-jjeiXFmZO4E1NLX3G2UIhjFaFSXDAfdRRRzaCnS7CBlFFhFzNGU_16ZNZONZZ4HfxXy0g5H0cVzBZLLyLGP3mGkY3cE4-xuIFvGHQdJHXu0MbeoLoBc0cIPstW5sjxvdhQJuKkYH9tBZ8JOQYDSEFMsTAAByO0C4hWvwRJwslmai0vbY1JFarqTFSq638kEe6VapSFzyMI_myercKFPFcpoemnsP4ea0lggptDVjIJeVs2HSwqJitvPg_augf4PLUEVwWenRWvm_tRxnGbyztSjzN4UjVg_DVV_sLcUhuDcX8OHF8Qo9AdVVreA2i3Rcvr_CINYk_uzyD-evCjQqephQyXzsqYk0hbloJPB_z65EgKJ32_qmgOFFDdErihUncAZXIWCUSo8PngGhaXuUT9imOZPAEVE4We4OloAemmGSkv-T7uQwdHIntjfl4fYoU-Ew82G34j72YaYrHX2BW0Yhi5t6Zp-75LeIKUfcsUmiOh9PZcuQ9TPQwslIpenEm0oZDWN2Zef2cqUXL3sbrNE2Nnwlv5ooMjHZTseMXKYxSq5l5RXJYno-mDy5qfG-xZEw-upfZllbLe8X8TPNMOeuK57P-xU2fU6jxVLSpN_FSetXNcwdNQ50HQ	http_500
+
+=== 2026-10-12 07:20:12 - 失效订阅 (1 个) ===
+https://v2rayse.com/fs/public/20260407/4s7cd9k.yaml	request_failed
