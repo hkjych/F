@@ -12047,3 +12047,17 @@ http://103.193.172.0/23	request_failed
 
 === 2026-10-14 07:31:52 - 失效订阅 (1 个) ===
 https://www.ermao.net/sub/clash/ermao.net	download_failed
+
+=== 2026-10-15 06:49:11 - 失效订阅 (9 个) ===
+https://sus.clodom.link/message/api/sourlist/67c1f2bd6c60c295299bd6215705b0a9	http_403
+https://sus.clodom.link/message/api/sourlist/e97d77cedce9905ff4f6f60fa9fdc7f4	http_403
+https://jkun.waimaosass.icu/api/v1/client/subscribe?token=1469b2b0f3fae7e6fb9a4fb1cdba2ee5	http_403
+https://wk392.sakuracloud.vip/#/register?code=PVsS4u0g	request_failed
+https://cdn4.telesco.pe/file/bf8b7cc933.mp4?token=Wzu5LTZMgGIIr1PqV9rSYG2SIT5ah887CIQy2cPpPBZXjG7ko44BCZlkwmEhkQsF7ZeXsBrS12vsLLA3GnWC5MVWYyufMI5m1NErEZxRF8TmU5P_oIYxioARsZo3XMguSJVOpf-iNH7lmMRDLHf_gzdcQE_VFMfFkEaB3BuC9f-yyz8XKQRFDc5A5seWFZLoZEY7u72qHzc9mSQSS6mWJCg8JEag-pGWB4AgdoYc3PLZ_2n0BhQjqLGUc-dwUc4t87uSKAHgbyOEuDBNPKm2D_z8UbvhHwqNnpcjCRT4UYR-SsX-STPW9trDBhZwFeeRCwHL15nJp9w4hNRASamZvg	http_500
+https://cdn4.telesco.pe/file/0318290ab2.mp4?token=bJHHMA2AN4j32xfiyGcDVqbcMWPYGecM210ZpdK_Pi9lIM0hNaUvcL9cbL80COhgmGGazPt41S1lhajs1hXshgjGNLSh_LMiFsM5FzdL8BM3D9N8sK1sYCxQEEQQQBHH1AvKcAoFfGScArwV9G8c0j6uc_qsrXq7nGZ5K37bZnQH0PIn1K02pGreUY3s30hIU_ZSUx_7GAw3u50Ktr8zpXnmgKcDdoNY8lq9mqSCfSFYivs5iyYzqzAHYjhSUI8Z_2RyC-qtvOEEMOglpGhshptDcx9_K_LMSNs_b2HU6zMl8gWsX1CXWrUeKxjZSGLBXtDiO8Uy1Nn19AtJO4Kf7g	http_500
+https://cdn4.telesco.pe/file/ce4aab00bd.mp4?token=q5Uo0iaw1Qt38s76lyufW00ppjP67y8oPODdG_8Iuixz5F5BT8CWAmIQMU9ezJIsoTKZ5Mw-Cz4OeZlIAJXCOg2Uo_wxMUfosuh1NCdmV8-CuwW0OXVCKRn5w-40GcWf0PaqHojrhX96Ekoblf9-i6yNo-f5Hr3HM3xsh13wsNM2OdtJ8Yxv-UUWr78oUXIZs7SDxuzlb-OPRoYyaUYVm8Y3FDYxdt2wPg-0q_abfVrCZKYRjooG0AG94hXBa9sJjptamJzaKQJYbzXww8aDTmanU4uP70yrvZXbWh2T4s_lsFFbv-721Raj8guh9gJ4R4hOBX8kChu8kYV7kTK6WoQ1AInQSICGMOv9ouNzqT6GiOEAMmdNbyIPSAqyevm-omo566AoU05bQinZEZxNakdns4vCAaixxAnf_pCK0NDnyXmIO8Zw_elrswYaUZm6JRlRS1Uvi7W6T9Sgmh4ejdytM3wbMKuZeZrK8HdnbDzEeqtLfT3mLB3Gw-qPmD40ZXFXebwhBl0pkNKD3EjSUa-9F4cth4-KIKpizt4Y6WKEEQ1QnknYOev1aCUjV2r3kSh87Od19nxfipEeEbUY_uQCvTnpKqzXKJ4b3CGgdL--PfATFY1F3EoPSUH047Ty5dFQ854-npmC-qpmgFpeHAUjvJsJINB9sTGHuNtqREE	http_500
+https://opengraph.githubassets.com/8ae8e0bb12c1637786fc3c0bf789fb38ff01ec7196a2c0519934b04c2e7619c6/ermaozi/get_subscribe	http_429
+http://www.hy772.vip/	request_failed
+
+=== 2026-10-15 06:49:49 - 失效订阅 (1 个) ===
+https://cdn-JW4NJ4H4ZVPLYAL7KA36.luxkelly.com/s/05faabcd5dfc55fc65f9254e45cb8bba	http_403
