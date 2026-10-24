@@ -12169,3 +12169,54 @@ https://nodebuf.com/files/public/cmvk7eood01z9y95wcnw6bjx6/download	http_429
 https://v2rayse.com/fs/public/20260518/free-node-share-0800.txt	http_429
 https://nodebuf.com/files/public/cmvkx4f7u1lmx5u5wawbcvvv8/download	http_429
 https://v2rayse.com/fs/public/20260508/free-node-share-0800.txt	http_429
+
+=== 2026-10-25 06:25:02 - 失效订阅 (46 个) ===
+https://tributary.music/	http_403
+https://iuenc35ziec.684821.xyz/api/v1/client/subscribe?token=f4fce375b56a3524fb3329872fff971e	request_failed
+https://jikun.zmxoo.xyz/subapi?token=free_Ql5pwp91bP0UZ8NK&amp;placeholder=1&amp;placeholder=2&amp;placeholder=3	http_403
+https://atvpn.cc/api/v1/client/subscribe?token=619d9dc2812c8e2065818b6f94960d96	http_403
+https://atvpn.cc/api/v1/client/subscribe?token=1b62fe19ebb056b3db9b9e10cfb03d9f	http_403
+https://3.124.3.86:443/	request_failed
+https://154.81.36.92:8443/	request_failed
+https://52.31.6.121:443/	request_failed
+https://74.80.181.131:443/	request_failed
+https://3.124.12.172:443/	request_failed
+https://149.50.215.193:443	request_failed
+http://119.93.120.93:8000	http_401
+https://3.124.3.86:443	request_failed
+https://3.124.4.66:443	request_failed
+https://149.50.208.46:443/	request_failed
+https://149.50.215.193:443/	request_failed
+https://52.31.6.121:443	request_failed
+https://74.80.181.131:443	request_failed
+https://3.124.12.172:443	request_failed
+https://154.81.36.92:8443	request_failed
+https://149.50.208.46:443	request_failed
+http://120.79.227.62:8883/api/v1/client/subscribe?token=723602a336ac7ab944d498ac9f1d3717	http_403
+https://3.124.4.66:443/	request_failed
+http://spys.one/free-proxy-list/IR/	http_403
+http://119.93.120.93:8000/	http_401
+https://www.freeproxy.world/?country=IR	http_403
+https://proxystack.com/proxies-by-country/ir	http_404
+https://proxyranker.com/iran_islamic_republic_of/	request_failed
+https://spys.one/free-proxy-list/IR	http_403
+https://premproxy.com/proxy-by-country/Iran-Islamic-Republic-of-01.htm	http_404
+http://SPYS.ONE/	http_403
+https://hidemy.name/en/proxy-list/?country=IR#list	http_403
+https://gitwal.com/mentions	request_failed
+https://55dbref.pro/L?tag=d_4580273m_118385c_&amp;site=4580273&amp;ad=118385	http_203
+https://cdn4.telesco.pe/file/e2d4b3074e.mp4?token=W2HKHLJF9AB3ytoELAX0rMVTT38v-Ysx1_HVZpevJzOBtiviRI657qj7YMQ8oHQhqxkH828-AcGQaxCPw7KFE4ViBIW3A2zdULn5AAKuUIL_3R_v7TWXBrrV6AgsyxYtV8AVQvlt-HYwQkegATt5ypoVrBkqrjrQa8D4P8smdP1Azlt0pPUv-2gWsGSxHX5TAbVRzUEbORmstUVY7DFJfs7sZzieHixNzcKILSbepFgKzhNirBQDiSFWg0901Ke9FeAd360299olRlEj1LIolfgZqZEOhkBSlQAWc4DpO7-b2dQcp1cZ7vWJtd_ik0NErN3KHED3Jw6t310tWQ9hVA	http_500
+http://49.51.245.141:3128/	request_failed
+http://160.176.108.150:3001/	request_failed
+http://49.51.71.195:3128	request_failed
+http://49.51.245.141:3128	request_failed
+http://49.51.71.195:3128/	request_failed
+http://160.176.108.150:3001	request_failed
+https://119.12.174.188:443	request_failed
+https://119.12.174.188:443/	request_failed
+https://proxylister.com/free-proxies/country/iran	request_failed
+https://stackoverflow.com/questions/46677774/eslint-unexpected-use-of-isnan	http_403
+https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/nodefree.yaml	http_404
+
+=== 2026-10-25 06:25:52 - 失效订阅 (1 个) ===
+http://111.91.18.88/clash-08ae88825d66b1a1.yaml	http_404

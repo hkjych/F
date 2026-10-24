@@ -1,5 +1,4 @@
 clash订阅:
-- http://111.91.18.88/clash-08ae88825d66b1a1.yaml
 - http://clash.liudonghoe.com
 - http://clash.liudonghoe.com:8080
 - http://clash.liudonghoe.com:8080#https://snni.868001.xyz/a0337ead-44b0-42f1-981d-9f4876d85a3f
@@ -193,6 +192,8 @@ clash订阅:
 - https://nodebuf.com/files/public/cmvgmsnt10mlxzj5wcwuej0vs/download
 - https://nodebuf.com/files/public/cmvi28qrc00k0y95w2wekpie3/download
 - https://nodebuf.com/files/public/cmvkx4f571lmv5u5wdswyhrvr/download
+- https://nodebuf.com/files/public/cmvlmum3d02key95wue7i0cwv/download
+- https://nodebuf.com/files/public/cmvmckn5c02w2y95wr8wmewp3/download
 - https://pcq7y.no-mad-world.club/link/Lnhw8YmdYo7on5BF?clash=3
 - https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/light/clash.yaml
 - https://raw.githubusercontent.com/69z1zfw2fly/fly/main/2.yaml
@@ -227,6 +228,7 @@ clash订阅:
 - https://raw.githubusercontent.com/sunshinehome/zidong/main/0627.yaml.txt
 - https://raw.githubusercontent.com/tony0392/clash/main/clash.yaml
 - https://raw.githubusercontent.com/ts-sf/fly/main/clash
+- https://raw.githubusercontent.com/wenxig/free-nodes-sub/refs/heads/main/data/sub.yaml
 - https://raw.githubusercontent.com/zhangj360/dingyue/8157b6c8472b1e1a13465b817633a7fd7956005e/diy.yaml
 - https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
 - https://rifiv.no-mad-world.club/link/nIHOtvpB6zMwsos7?clash=3&amp;extend=1
@@ -323,7 +325,6 @@ clash订阅:
 - https://yy.77777.bond/c/sSEpDhL
 - https://yz6on.no-mad-world.club/link/2RftO5z9yJiPkPVN?clash=3&amp;extend=1
 v2订阅:
-- http://120.79.227.62:8883/api/v1/client/subscribe?token=723602a336ac7ab944d498ac9f1d3717
 - http://172.96.142.65:9001/html/system/bee/html?token=2d605d4318381496f3f54e221670b002
 - http://172.96.142.65:9001/html/system/bee/html?token=60ab532c07a6358112b70e846bdd62fa
 - http://172.96.142.65:9001/html/system/bee/html?token=79c778782f99b7af55e9d4aca89dc746
@@ -357,6 +358,7 @@ v2订阅:
 - https://my.ssonenetwork.com/ssone/b360fde7f215b37d10295524fe3dd9c2
 - https://niaodi.top/niao?token=8cf28a28d8ed739b8e9bc5489a73a75b
 - https://node.lovehk.xyz/s/19c8f388efc496ae05b0e8f2aacb1b38
+- https://node.lovehk.xyz/s/8e768e2e758697d2ec72cc7faa03699d
 - https://nodebuf.com/files/public/cmpzg19s4026ibe5wylkwbma9/download
 - https://nodebuf.com/files/public/cmqdqfvld16ig0q5w9dsrz14r/download
 - https://nodebuf.com/files/public/cmqiqgxl50hkz1s5wmy98ie86/download
@@ -452,6 +454,8 @@ v2订阅:
 - https://nodebuf.com/files/public/cmvax21yse34aoh5wbvyhu98z/download
 - https://nodebuf.com/files/public/cmvf7cvmm02n6zj5wjmt3tnib/download
 - https://nodebuf.com/files/public/cmvfx3qdo0cruzj5w9s5ewi22/download
+- https://nodebuf.com/files/public/cmvlmum3c02kdy95wfmu9kx4j/download
+- https://nodebuf.com/files/public/cmvmckn5d02w3y95wwv8xn38b/download
 - https://raw.githubusercontent.com/10ium/free-config/refs/heads/main/HighSpeed.txt
 - https://raw.githubusercontent.com/AzadNetCH/Clash/refs/heads/main/AzadNet_iOS.txt
 - https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vless.txt
@@ -501,6 +505,7 @@ v2订阅:
 - https://raw.githubusercontent.com/rzhy1/11/master/sub/sub_merge_base64.txt
 - https://raw.githubusercontent.com/sami-soft/v2rayN_proxy/main/new1.txt
 - https://raw.githubusercontent.com/shabane/kamaji/master/hub/b64/vmess.txt
+- https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/base64.txt
 - https://raw.githubusercontent.com/shuaidaoya/FreeNodes/refs/heads/main/nodes/base64.txt
 - https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt
 - https://raw.githubusercontent.com/tjyu010/jiedian/main/21
@@ -531,6 +536,7 @@ v2订阅:
 - https://sub.shadowproxy66.workers.dev/sub/e7c122fa-35f6-4962-9ff4-70ab55e6fbac#ShadowProxy66
 - https://sub.tianjiyun.org/s/049eede8f2188d120471bf871c5f80c8#CF-edge.nianyi.de5.net:443
 - https://sub.tianjiyun.org/s/a8626cc3681866de101634452d3e3e89
+- https://sub03.dnsct.dpdns.org/dayu2028?token=461c8d8e07154e064963eab519d3d4ae
 - https://sub03.dnsct.dpdns.org/dayu2028?token=e40020ab9d42b7eb195709df84688844
 - https://sub1.gsafevpn.com/957baaca8fc/12e09c2487e71cc3c27daf22ebeec919
 - https://sub1.gsafevpn.com/957baaca8fc/4867ffd8c8d6bccd6b6f4d70b2d25d7c
@@ -566,28 +572,27 @@ v2订阅:
 - https://yu.11144444.xyz/x/hXggqYK
 - https://yy.77777.bond/x/sSEpDhL
 开心玩耍:
-- 可用流量:1.27 GB                    https://rifiv.no-mad-world.club/link/nIHOtvpB6zMwsos7?clash=3&amp;extend=1
 - 可用流量:100.0 GB                    https://sub.shadowproxy66.workers.dev/sub/736218dc-3cdf-4e93-bb5b-1d726418e43e#ShadowProxy66
 - 可用流量:100.0 GB                    https://sub.shadowproxy66.workers.dev/sub/e298329f-2274-4b24-8d7c-84183c77dba8#ShadowProxy66
 - 可用流量:100.0 GB                    https://sub.shadowproxy66.workers.dev/sub/e7c122fa-35f6-4962-9ff4-70ab55e6fbac#ShadowProxy66
 - 可用流量:101373.0 GB                    https://sub.femboy.us.ci/?url=freenodes
 - 可用流量:1022976.0 GB                    https://honghong.yyylll.kdns.fr/sub/user/eyJ1IjoidGVzdGFhYTEyMyIsImUiOi0zMDI0MzUxMTI0MzA4ODkwLCJzIjoiMmI0YjRmZDVhZGRjYjg4OSJ9?vip=1&amp;protocol=default
-- 可用流量:163.96 GB                    https://cf.frnhk.xyz/s/8e1d39a1f4b31cd2e186ae160b864d96
+- 可用流量:117.93 GB                    https://node.lovehk.xyz/s/8e768e2e758697d2ec72cc7faa03699d
+- 可用流量:147.06 GB                    https://cf.frnhk.xyz/s/8e1d39a1f4b31cd2e186ae160b864d96
+- 可用流量:2.32 GB                    https://rifiv.no-mad-world.club/link/nIHOtvpB6zMwsos7?clash=3&amp;extend=1
 - 可用流量:2048.0 GB                    https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
-- 可用流量:339.18 GB                    https://ys.jiedianxielou.workers.dev:443
-- 可用流量:363.91 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3
-- 可用流量:363.91 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#
-- 可用流量:363.91 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#@yuzhenb888#
-- 可用流量:363.91 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3vpn.yuzhe.cc.cd#
-- 可用流量:363.91 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=TG_proxyshareCN
-- 可用流量:363.91 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=avtoday.io
-- 可用流量:5.13 GB                    https://uecrt.no-mad-sub.one/link/6B5qoBrGsC2f9ZKB?clash=3&amp;extend=1
-- 可用流量:660.63 GB                    http://111.91.18.88/clash-08ae88825d66b1a1.yaml
+- 可用流量:3.38 GB                    https://uecrt.no-mad-sub.one/link/6B5qoBrGsC2f9ZKB?clash=3&amp;extend=1
+- 可用流量:310.09 GB                    https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+- 可用流量:314.4 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3
+- 可用流量:314.4 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#
+- 可用流量:314.4 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#@yuzhenb888#
+- 可用流量:314.4 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3vpn.yuzhe.cc.cd#
+- 可用流量:314.4 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=TG_proxyshareCN
+- 可用流量:314.4 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=avtoday.io
+- 可用流量:655.16 GB                    https://ys.jiedianxielou.workers.dev:443
 - 可用流量:707.0 GB                    https://yi2gmw3ns8.qinyues4.cc/a11e22865782df21f052be69c2148265
-- 可用流量:871.43 GB                    https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-- 可用流量:89.33 GB                    https://node.lovehk.xyz/s/19c8f388efc496ae05b0e8f2aacb1b38
+- 可用流量:77.5 GB                    https://node.lovehk.xyz/s/19c8f388efc496ae05b0e8f2aacb1b38
 机场订阅:
-- http://111.91.18.88/clash-08ae88825d66b1a1.yaml
 - https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3
 - https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#
 - https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#@yuzhenb888#
@@ -599,6 +604,7 @@ v2订阅:
 - https://honghong.yyylll.kdns.fr/sub/user/eyJ1IjoidGVzdGFhYTEyMyIsImUiOi0zMDI0MzUxMTI0MzA4ODkwLCJzIjoiMmI0YjRmZDVhZGRjYjg4OSJ9?vip=1&amp;protocol=default
 - https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 - https://node.lovehk.xyz/s/19c8f388efc496ae05b0e8f2aacb1b38
+- https://node.lovehk.xyz/s/8e768e2e758697d2ec72cc7faa03699d
 - https://rifiv.no-mad-world.club/link/nIHOtvpB6zMwsos7?clash=3&amp;extend=1
 - https://sub.femboy.us.ci/?url=freenodes
 - https://sub.shadowproxy66.workers.dev/sub/736218dc-3cdf-4e93-bb5b-1d726418e43e#ShadowProxy66
